@@ -1,6 +1,6 @@
-# Machin Learning |(Data Science)
+# Machine Learning | (Data Science)
 
-Python Machine Learning Tutorial (Data Science)
+Python Machine Learning Tutorial (Data Science). This will show how to predict the kind of music people like.
 
 ..........
 
@@ -9,4 +9,4 @@ Python Machine Learning Tutorial (Data Science)
 
 ## Languages / Covered topics
 + Python
-+ LEARN: Jupyter, Anaconda, Pandas, Machin Learning / Data Science
++ LEARN: Jupyter, Anaconda, Pandas, Machine Learning / Data Science
